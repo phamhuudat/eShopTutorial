@@ -24,6 +24,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="EF\" />
     <Folder Include="Entities\" />
     <Folder Include="EF\" />
     <Folder Include="Enums\" />
